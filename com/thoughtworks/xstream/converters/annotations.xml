@@ -1,0 +1,10 @@
+<root>
+  <item
+      name='com.thoughtworks.xstream.converters.Converter java.lang.Object unmarshal(com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.UnmarshallingContext)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item
+      name='com.thoughtworks.xstream.converters.UnmarshallingContext java.lang.Object convertAnother(java.lang.Object, java.lang.Class)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+</root>

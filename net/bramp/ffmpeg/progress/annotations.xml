@@ -1,0 +1,8 @@
+<root>
+	<item name='net.bramp.ffmpeg.progress.Progress java.lang.String toString()'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.progress.ProgressListener void progress(net.bramp.ffmpeg.progress.Progress) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+</root>

@@ -1,0 +1,30 @@
+<root>
+  <item name='java.lang.Class T newInstance()'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='java.lang.String java.lang.String format(java.lang.String, java.lang.Object...)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+    <annotation name='org.jetbrains.annotations.Contract'>
+      <val name="pure" val="true"/>
+    </annotation>
+  </item>
+  <item
+      name='java.lang.String java.lang.String replace(java.lang.CharSequence, java.lang.CharSequence)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item name='java.lang.System java.lang.String getProperty(java.lang.String)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item
+      name='java.lang.System java.lang.String getProperty(java.lang.String, java.lang.String)'>
+    <annotation name='org.jetbrains.annotations.Contract'>
+      <val name="value" val="&quot;_, !null -&gt; !null&quot;"/>
+      <val name="pure" val="true"/>
+    </annotation>
+  </item>
+  <item
+      name='java.lang.System java.lang.String getProperty(java.lang.String, java.lang.String) 1'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+</root>

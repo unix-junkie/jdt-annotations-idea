@@ -1,0 +1,17 @@
+<root>
+	<item name='net.bramp.ffmpeg.job.FFmpegJob FFmpegJob(net.bramp.ffmpeg.FFmpeg, net.bramp.ffmpeg.progress.ProgressListener) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.job.FFmpegJob FFmpegJob(net.bramp.ffmpeg.FFmpeg, net.bramp.ffmpeg.progress.ProgressListener) 1'>
+		<annotation name='org.jetbrains.annotations.Nullable'/>
+	</item>
+	<item name='net.bramp.ffmpeg.job.SinglePassFFmpegJob SinglePassFFmpegJob(net.bramp.ffmpeg.FFmpeg, net.bramp.ffmpeg.builder.FFmpegBuilder, net.bramp.ffmpeg.progress.ProgressListener) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.job.SinglePassFFmpegJob SinglePassFFmpegJob(net.bramp.ffmpeg.FFmpeg, net.bramp.ffmpeg.builder.FFmpegBuilder, net.bramp.ffmpeg.progress.ProgressListener) 1'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.job.SinglePassFFmpegJob SinglePassFFmpegJob(net.bramp.ffmpeg.FFmpeg, net.bramp.ffmpeg.builder.FFmpegBuilder, net.bramp.ffmpeg.progress.ProgressListener) 2'>
+		<annotation name='org.jetbrains.annotations.Nullable'/>
+	</item>
+</root>

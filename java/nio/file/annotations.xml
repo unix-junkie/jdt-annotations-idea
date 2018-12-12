@@ -1,0 +1,5 @@
+<root>
+    <item name='java.nio.file.Path boolean startsWith(java.nio.file.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

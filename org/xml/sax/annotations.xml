@@ -1,0 +1,14 @@
+<root>
+	<item name='org.xml.sax.EntityResolver org.xml.sax.InputSource resolveEntity(java.lang.String, java.lang.String)'>
+		<annotation name='org.jetbrains.annotations.Nullable'/>
+	</item>
+	<item name='org.xml.sax.ErrorHandler void error(org.xml.sax.SAXParseException) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='org.xml.sax.ErrorHandler void fatalError(org.xml.sax.SAXParseException) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='org.xml.sax.ErrorHandler void warning(org.xml.sax.SAXParseException) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+</root>

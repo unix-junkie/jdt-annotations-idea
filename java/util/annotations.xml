@@ -1,0 +1,16 @@
+<root>
+	<item name='java.util.Optional T orElse(T) 0'>
+		<annotation name='org.jetbrains.annotations.Nullable'/>
+	</item>
+	<item
+	    name='java.util.Properties java.lang.String getProperty(java.lang.String, java.lang.String)'>
+	  <annotation name='org.jetbrains.annotations.Contract'>
+	    <val name="value" val="&quot;_, !null -&gt; !null&quot;"/>
+	    <val name="pure" val="true"/>
+	  </annotation>
+	</item>
+	<item
+	    name='java.util.Properties java.lang.String getProperty(java.lang.String, java.lang.String) 1'>
+	  <annotation name='org.jetbrains.annotations.Nullable'/>
+	</item>
+</root>

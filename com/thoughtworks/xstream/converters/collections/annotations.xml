@@ -1,0 +1,22 @@
+<root>
+  <item
+      name='com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter java.lang.Object createCollection(java.lang.Class)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter java.lang.Object unmarshal(com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.UnmarshallingContext)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='com.thoughtworks.xstream.converters.collections.ArrayConverter java.lang.Object unmarshal(com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.UnmarshallingContext)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='com.thoughtworks.xstream.converters.collections.CollectionConverter java.lang.Object createCollection(java.lang.Class)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='com.thoughtworks.xstream.converters.collections.MapConverter java.lang.Object createCollection(java.lang.Class)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>

@@ -1,0 +1,6 @@
+<root>
+  <item
+      name='com.thoughtworks.xstream.converters.time.WeekFieldsConverter java.lang.Object unmarshal(com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.UnmarshallingContext)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>

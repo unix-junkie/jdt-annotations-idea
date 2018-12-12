@@ -1,0 +1,22 @@
+<root>
+  <item
+      name='com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy java.lang.Object unmarshal(java.lang.Object, com.thoughtworks.xstream.io.HierarchicalStreamReader, com.thoughtworks.xstream.converters.DataHolder, com.thoughtworks.xstream.converters.ConverterLookup, com.thoughtworks.xstream.mapper.Mapper)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item
+      name='com.thoughtworks.xstream.core.TreeUnmarshaller java.lang.Object convert(java.lang.Object, java.lang.Class, com.thoughtworks.xstream.converters.Converter)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item
+      name='com.thoughtworks.xstream.core.TreeUnmarshaller java.lang.Object convertAnother(java.lang.Object, java.lang.Class)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item
+      name='com.thoughtworks.xstream.core.TreeUnmarshaller java.lang.Object convertAnother(java.lang.Object, java.lang.Class, com.thoughtworks.xstream.converters.Converter)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item
+      name='com.thoughtworks.xstream.core.TreeUnmarshaller java.lang.Object start(com.thoughtworks.xstream.converters.DataHolder)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+</root>

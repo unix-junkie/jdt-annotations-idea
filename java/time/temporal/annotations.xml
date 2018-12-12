@@ -1,0 +1,6 @@
+<root>
+  <item
+      name='java.time.temporal.WeekFields java.time.temporal.WeekFields of(java.time.DayOfWeek, int)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>

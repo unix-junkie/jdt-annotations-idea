@@ -1,0 +1,39 @@
+<root>
+  <item
+      name='java.util.regex.Matcher Matcher(java.util.regex.Pattern, java.lang.CharSequence) 0'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='java.util.regex.Matcher Matcher(java.util.regex.Pattern, java.lang.CharSequence) 1'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='java.util.regex.Matcher java.lang.String replaceAll(java.lang.String)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='java.util.regex.Matcher java.util.regex.Matcher reset(java.lang.CharSequence) 0'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item name='java.util.regex.Matcher java.util.regex.Pattern pattern()'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item name='java.util.regex.Matcher parentPattern'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item name='java.util.regex.Matcher text'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='java.util.regex.Pattern java.lang.String[] split(java.lang.CharSequence)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='java.util.regex.Pattern java.lang.String[] split(java.lang.CharSequence) 0'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='java.util.regex.Pattern java.lang.String[] split(java.lang.CharSequence, int)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>

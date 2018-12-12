@@ -1,0 +1,36 @@
+<root>
+  <item
+      name='java.sql.DatabaseMetaData java.sql.ResultSet getColumns(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='java.sql.DatabaseMetaData java.sql.ResultSet getIndexInfo(java.lang.String, java.lang.String, java.lang.String, boolean, boolean)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item name='java.sql.ResultSet java.lang.String getString(int)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item name='java.sql.ResultSet java.lang.String getString(java.lang.String)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item name='java.sql.ResultSet java.math.BigDecimal getBigDecimal(int)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item name='java.sql.ResultSet java.sql.Timestamp getTimestamp(int)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item
+      name='java.sql.SQLException SQLException(java.lang.String, java.lang.String, int, java.lang.Throwable) 1'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item
+      name='java.sql.SQLException SQLException(java.lang.String, java.lang.String, java.lang.Throwable) 1'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item name='java.sql.SQLException SQLState'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+  <item name='java.sql.SQLException java.lang.String getSQLState()'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+</root>

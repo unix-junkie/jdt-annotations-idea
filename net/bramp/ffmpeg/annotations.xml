@@ -1,0 +1,23 @@
+<root>
+	<item name='net.bramp.ffmpeg.FFmpegExecutor FFmpegExecutor(net.bramp.ffmpeg.FFmpeg, net.bramp.ffmpeg.FFprobe) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.FFmpegExecutor FFmpegExecutor(net.bramp.ffmpeg.FFmpeg, net.bramp.ffmpeg.FFprobe) 1'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.FFmpegExecutor ffmpeg'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.FFmpegExecutor ffprobe'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.FFmpegExecutor net.bramp.ffmpeg.job.FFmpegJob createJob(net.bramp.ffmpeg.builder.FFmpegBuilder) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.FFmpegExecutor net.bramp.ffmpeg.job.FFmpegJob createJob(net.bramp.ffmpeg.builder.FFmpegBuilder, net.bramp.ffmpeg.progress.ProgressListener) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='net.bramp.ffmpeg.FFmpegExecutor net.bramp.ffmpeg.job.FFmpegJob createJob(net.bramp.ffmpeg.builder.FFmpegBuilder, net.bramp.ffmpeg.progress.ProgressListener) 1'>
+		<annotation name='org.jetbrains.annotations.Nullable'/>
+	</item>
+</root>

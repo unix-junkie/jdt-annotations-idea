@@ -1,0 +1,12 @@
+<root>
+  <item name='java.net.URL URL(java.lang.String) 0'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item name='java.net.URL URL(java.net.URL, java.lang.String) 1'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+  <item
+      name='java.net.URL URL(java.net.URL, java.lang.String, java.net.URLStreamHandler) 1'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>

@@ -1,0 +1,35 @@
+<root>
+	<item name='java.util.prefs.AbstractPreferences java.lang.String getSpi(java.lang.String) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='java.util.prefs.AbstractPreferences java.util.prefs.AbstractPreferences childSpi(java.lang.String) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='java.util.prefs.AbstractPreferences void putSpi(java.lang.String, java.lang.String) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='java.util.prefs.AbstractPreferences void putSpi(java.lang.String, java.lang.String) 1'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='java.util.prefs.AbstractPreferences void removeSpi(java.lang.String) 0'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='java.util.prefs.PreferenceChangeEvent PreferenceChangeEvent(java.util.prefs.Preferences, java.lang.String, java.lang.String) 1'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='java.util.prefs.PreferenceChangeEvent PreferenceChangeEvent(java.util.prefs.Preferences, java.lang.String, java.lang.String) 2'>
+		<annotation name='org.jetbrains.annotations.Nullable'/>
+	</item>
+	<item name='java.util.prefs.PreferenceChangeEvent java.lang.String getKey()'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='java.util.prefs.PreferenceChangeEvent java.lang.String getNewValue()'>
+		<annotation name='org.jetbrains.annotations.Nullable'/>
+	</item>
+	<item name='java.util.prefs.PreferenceChangeEvent key'>
+		<annotation name='org.jetbrains.annotations.NotNull'/>
+	</item>
+	<item name='java.util.prefs.PreferenceChangeEvent newValue'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+</root>
