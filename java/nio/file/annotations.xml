@@ -2,4 +2,7 @@
     <item name='java.nio.file.Path boolean startsWith(java.nio.file.Path) 0'>
         <annotation name='org.jetbrains.annotations.NotNull'/>
     </item>
+    <item name='java.nio.file.Path java.nio.file.Path getFileName()'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
 </root>
